@@ -1,16 +1,16 @@
 # IUX-Android-Translation
 
 
-## 1 index 主页
+### 1 index: home screen
 
-## 2 main 第二屏（模拟器选择页面）
+### 2 main: second screen (emu selector)
 
-## 3 romlist  游戏列表（列表模式）
+### 3 romlist: list of games (list mode)
 
-## 4 romlistplus 游戏列表（图标模式）
+### 4 romlistplus: list of games (icon mode)
 
-## 5 romlistreto  游戏列表（开源机游戏包）
+### 5 romlistreto: list of games (retro games)
 
-## 6 setting  设置
+### 6 setting: settings
 
-## 7 fav 收藏
+### 7 fav: favorite
